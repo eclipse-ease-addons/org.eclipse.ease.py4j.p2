@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="org.py4j.feature" url="features/org.py4j.feature_0.10.9.2-bnd-BwsoWA.jar" version="0.10.9.2-bnd-BwsoWA">
+      <category name="py4j"/>
+   </feature>
+   <category-def name="py4j" label="Py4J Mirror">
+      <description>
+         Mirror of Py4J 0.10.9.2
+      </description>
+   </category-def>
+   <repository-reference location="https://eclipse-ease-addons.github.io/org.eclipse.ease.engines.p2/latest" enabled="true" />
+   <repository-reference location="http://eclipse.py4j.org/" enabled="true" />
+</site>
